@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**JreamIT/JreamIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Alex
 
 I’m interested in turning data into decisions.
